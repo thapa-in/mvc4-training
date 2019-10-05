@@ -1,4 +1,4 @@
-# mvc4-training
+# mvc4
 #### 1. Plan the Application Layer
     - Plan Data Access
     - Plan for Sepration of concern
